@@ -81,7 +81,7 @@ html {
   left: 0;
   width: 100%;
   height: 20vh;
-  background-image: url("wave.png");
+  background-image: url("./Images/wave.png");
   background-size: 100vw 20vh;
 }
 
@@ -240,7 +240,7 @@ html {
 }
 
 .Answer {
-  margin-top: 3%
+  margin-top: 3%;
   text-align: justify;
 }
 
